@@ -2,7 +2,7 @@ swagger: "2.0"
 info:
   version: 1.0.0
   title: Test!
-  description: Test!
+  description: One more test as an unknown author!
   termsOfService: http://swagger.io/terms/
   contact:
     name: Swagger API Team
